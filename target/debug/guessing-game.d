@@ -1,1 +1,1 @@
-/home/jco/Repos/vigilant-train/guessing-game/target/debug/guessing-game: /home/jco/Repos/vigilant-train/guessing-game/src/main.rs
+/home/jco/Repos/guessing-game/target/debug/guessing-game: /home/jco/Repos/guessing-game/src/main.rs
